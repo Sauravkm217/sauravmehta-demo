@@ -1,2 +1,3 @@
 # sauravmehta-demo
-this my first repository
+this my first Git  repository
+Athutor Saurav Mehta
